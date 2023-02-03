@@ -24,8 +24,6 @@ This will install all the necessary Node dependencies.
 
 -----
 
-Rename ".env.rename" and replace ".env"
-
 ------
 
 ```bash
@@ -36,3 +34,5 @@ This will create database and seed the data.
 -----
 
 After this, all you need to do is execute `npm run dev` to start compiling your assets. and execute 'php artisan serve' with new terminal to start the server.
+
+** if error 500 Rename ".env.rename" and replace ".env"
