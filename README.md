@@ -24,8 +24,6 @@ This will install all the necessary Node dependencies.
 
 -----
 
-------
-
 ```bash
 php artisan migrate --seed
 ```
